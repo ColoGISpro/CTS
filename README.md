@@ -1,4 +1,4 @@
-Documentation is currently being compiled by the CPW GIS Unit. What follows is a excerpt from the CTS Technical overview documentation to give companies bidding on the RFP some background on the existing CTS workflow. 
+Documentation is currently being compiled by the CPW GIS Unit. What follows is a excerpt from the documentation to give companies bidding on the RFP some background on the existing CTS workflow. 
 
 
 T Drive
